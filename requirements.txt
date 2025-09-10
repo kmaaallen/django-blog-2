@@ -8,4 +8,4 @@
 -i https://pypi.org/simple/
 django==2.2.24
 pytz==2021.1
-sqlparse==0.4.1; python_version >= '3.5'
+sqlparse==0.4.1; python_version >= '3.9'
